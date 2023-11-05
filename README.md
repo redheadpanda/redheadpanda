@@ -1,11 +1,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aayushi-priya-586b29207/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 
 Hey there 👋
+..... work in progress
 
-I am Aayushi, a final year UG at IIT Kharagpur. I am a data enthusiast with a deep fascination for the power of data and its potential to drive insights and transformation. I am constantly seeking opportunities to explore and learn more about the world of data, uncovering hidden patterns and extracting valuable information.  Apart from this, I am an integral part of the Design team at MEGALITH, India's largest Civil Engineering fest. I like reading a lot and occasionally writing. I enjoy listening to music.
-
-Want to know more about me? [Check out my portfolio.](https://naman-shankar.streamlit.app/)
+Want to know more about me? [Check out my portfolio.](https://)
 
 ## 📌 Pinned Repositories
 
